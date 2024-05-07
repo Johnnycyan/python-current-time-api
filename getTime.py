@@ -3,7 +3,6 @@ import requests_cache
 import googlemaps
 from cachetools import cached, LFUCache # pip install cachetools (for caching)
 import moment
-import datetime
 import pytz
 import collections
 import datetime as DT
