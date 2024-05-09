@@ -154,8 +154,5 @@ cython_debug/
 # backup files
 *.bak
 
-# no
-requirements.txt
-
 # cache
 *.sqlite
